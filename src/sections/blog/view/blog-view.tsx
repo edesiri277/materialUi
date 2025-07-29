@@ -46,7 +46,7 @@ export function BlogView({ posts }: Props) {
           color="inherit"
           startIcon={<Iconify icon="mingcute:add-line" />}
         >
-          New post
+          We are recreating
         </Button>
       </Box>
 
